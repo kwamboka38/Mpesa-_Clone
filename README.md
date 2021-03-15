@@ -1,9 +1,10 @@
 # Mpesa-_Clone
 #wondered how mpesa works 
-#this is a challemmge that i was given by my lecturer
+#this is a challenge that i experienced in my programming environment
 #It simulates the following:
-  ->sendnoney
+  ->sendmoney
   ->withdraw cash
+  ->check balance
   ->lipa na mpesa 
   ->loans and savings
   ->my account 
